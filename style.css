@@ -73,9 +73,24 @@ main {
     margin: 10px;
 }
 
-main {
+.home {
     animation-name: fade-in;
     animation-duration: 2s;
+}
+
+.about {
+    animation-name: fade-in;
+    animation-duration: 0.5s;
+}
+
+li {
+    font-size: 20px;
+}
+
+.note {
+    font-size: 16px;
+    margin-top: 10px;
+    color: rgb(182, 182, 182);
 }
 
 @keyframes fade-in {
