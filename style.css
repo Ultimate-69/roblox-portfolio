@@ -153,6 +153,21 @@ li {
     padding: 5px;
 }
 
+.contact {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-img {
+    width: 30px;
+    height: 30px;
+}
+
+.contact-text {
+    display: inline;
+}
+
 @keyframes fade-in {
     from {
         opacity: 0;
