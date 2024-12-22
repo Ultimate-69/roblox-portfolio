@@ -78,9 +78,13 @@ main {
     animation-duration: 2s;
 }
 
-.about {
+.about, .projects {
     animation-name: fade-in;
     animation-duration: 0.5s;
+}
+
+.projects-title {
+    margin-bottom: 0px;
 }
 
 li {
@@ -91,6 +95,11 @@ li {
     font-size: 16px;
     margin-top: 10px;
     color: rgb(182, 182, 182);
+}
+
+.tag {
+    font-size: 20px;
+    margin-top: 5px;
 }
 
 @keyframes fade-in {
