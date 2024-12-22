@@ -138,6 +138,19 @@ li {
     font-size: 18px;
 }
 
+.reviews {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+}
+
+.review {
+    width: 500px;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 5px;
+}
+
 @keyframes fade-in {
     from {
         opacity: 0;
