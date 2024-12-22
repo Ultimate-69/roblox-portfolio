@@ -102,6 +102,42 @@ li {
     margin-top: 5px;
 }
 
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+}
+
+.card {
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    width: 400px;
+    height: 300px;
+}
+
+.ref {
+    text-decoration: none;
+    color: white;
+}
+
+.project-img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: inherit;
+}
+
+.card:hover {
+    transform: scale(105%);
+}
+
+.project-title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
 @keyframes fade-in {
     from {
         opacity: 0;
