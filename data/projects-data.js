@@ -17,5 +17,11 @@ const projects =
         name: 'Blox Fruits Ability System [OLD-ISH]',
         description: 'A very close copy of how blox fruits works, with working quests, a level up system, a working stat system, and even skills like the fruits. Mobile compatible too.',
         link: 'https://youtu.be/PnJ2Yu1htOA'
-    }
+    },
+    {
+        img: 'https://trello.com/1/cards/676affd9d70438276963c6b6/attachments/676affdc7c8416620493f276/download/image.png',
+        name: 'Basic Combat System',
+        description: 'A very basic combat system that supports melee, grabs, and weapons. It is made basic on purpose.',
+        link: 'https://youtu.be/t0IugguFsRc'
+    },
 ];
