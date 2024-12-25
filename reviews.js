@@ -5,7 +5,7 @@ reviews.forEach((value) => {
     reviewsHtml +=
     `
     <div class="review">
-        <img class="project-img" src="${value}">
+        <img class="review-img" src="${value}">
     </div>
     `;
 });
