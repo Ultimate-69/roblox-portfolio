@@ -22,6 +22,12 @@ const projects =
         img: 'https://trello.com/1/cards/676affd9d70438276963c6b6/attachments/676affdc7c8416620493f276/download/image.png',
         name: 'Basic Combat System',
         description: 'A very basic combat system that supports melee, grabs, and weapons. It is made basic on purpose.',
-        link: 'https://youtu.be/t0IugguFsRc'
+        link: 'https://youtu.be/t0IugguFsRc',
+    },
+    {
+        img: 'https://trello.com/1/cards/676c3d925be6fcf7dc99c305/attachments/676c3d947abd9613d80b3bf6/download/image.png',
+        name: 'Crouching System [COM]',
+        description: 'A basic crouching system for a comission.',
+        link: 'https://vimeo.com/1042154938',
     },
 ];
