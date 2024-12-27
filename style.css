@@ -133,6 +133,11 @@ li {
     max-width: 100%;
     max-height: 100%;
     object-fit: inherit;
+    transition: transform 0.2s;
+}
+
+.review-img:hover {
+    transform: scale(105%);
 }
 
 .card:hover {
@@ -158,6 +163,7 @@ li {
     border: 1px solid white;
     border-radius: 6px;
     padding: 5px;
+    overflow: hidden;
 }
 
 .contact {

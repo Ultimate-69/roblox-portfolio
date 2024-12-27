@@ -4,9 +4,11 @@ let reviewsHtml = '';
 reviews.forEach((value) => {
     reviewsHtml +=
     `
-    <div class="review">
-        <img class="review-img" src="${value}">
-    </div>
+    <a href="${value}" target="_blank">
+        <div class="review">
+            <img class="review-img" src="${value}">
+        </div>
+    </a>
     `;
 });
 
