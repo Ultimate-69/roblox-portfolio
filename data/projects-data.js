@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/67893731ed7a1f519f1aa7d5/attachments/678937373518cfa3a3db1af1/download/image.png',
+        name: 'Advanced Sword Combat System',
+        description: 'A comission for a gladiator-ish combat system. You look up to aim up and down to aim down.',
+        link: 'https://youtu.be/mbrmECNUA0g'
+    },
+    {
         img: 'https://trello.com/1/cards/676affd9d70438276963c6b6/attachments/676affdc7c8416620493f276/download/image.png',
         name: 'Basic Combat System',
         description: 'A very basic combat system that supports melee, grabs, and weapons. It is made basic on purpose.',
