@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/678a75c6fd20afa9aec5f795/attachments/678a75c90434539183a084c8/download/image.png',
+        name: 'Ability Selection System',
+        description: 'A comission to make an ability selection. Pretty basic and does its job.',
+        link: 'https://youtu.be/bCpdq90zSok'
+    },
+    {
         img: 'https://trello.com/1/cards/67893731ed7a1f519f1aa7d5/attachments/678937373518cfa3a3db1af1/download/image.png',
         name: 'Advanced Sword Combat System',
         description: 'A comission for a gladiator-ish combat system. You look up to aim up and down to aim down.',
@@ -14,7 +20,7 @@ const projects =
     },
     {
         img: 'https://trello.com/1/cards/676c3d925be6fcf7dc99c305/attachments/676c3d947abd9613d80b3bf6/download/image.png',
-        name: 'Crouching System [COM]',
+        name: 'Crouching System',
         description: 'A basic crouching system for a comission.',
         link: 'https://vimeo.com/1042154938',
     },
