@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/679b9d947715ef8eb4d2f766/attachments/679b9d9803ac783b465bb187/download/image.png',
+        name: "A Jojo's Bizzare Adventure RPG Game.",
+        description: 'Has a combat system, dialogue, stands, special abilities, and even timestop which affects projectiles.',
+        link: 'https://www.youtube.com/watch?v=2IEkDEwBEMo'
+    },
+    {
         img: 'https://trello.com/1/cards/678a75c6fd20afa9aec5f795/attachments/678a75c90434539183a084c8/download/image.png',
         name: 'Ability Selection System',
         description: 'A comission to make an ability selection. Pretty basic and does its job.',
