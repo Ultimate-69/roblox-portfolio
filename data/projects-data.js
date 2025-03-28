@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/67e7119b9221e5d8368833a9/attachments/67e7119f36a8fff8eaffb42f/download/image.png',
+        name: 'Horse Riding System',
+        description: 'A basic horse riding system that includes mounting, dismounting, and jumping.',
+        link: 'https://youtu.be/gKGrO_zobT0'
+    },
+    {
         img: 'https://trello.com/1/cards/67e6b0ea3fc8a5f34ae62005/attachments/67e6b100e7815e33f824fc3b/download/image.png',
         name: 'FPS Shooter System',
         description: 'A basic framework for making an FPS game. Shooting, Aiming, and a Viewmodel.',
