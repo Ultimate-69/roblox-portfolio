@@ -1,7 +1,7 @@
 const projects = 
 [
     {
-        img: 'https://trello.com/1/cards/67e7119b9221e5d8368833a9/attachments/67e7119f36a8fff8eaffb42f/download/image.png',
+        img: 'https://trello.com/1/cards/67e7119b9221e5d8368833a9/attachments/67e711c835c8086a0f1b45fa/download/image.png',
         name: 'Horse Riding System',
         description: 'A basic horse riding system that includes mounting, dismounting, and jumping.',
         link: 'https://youtu.be/gKGrO_zobT0'
