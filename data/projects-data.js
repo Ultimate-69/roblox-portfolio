@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/67e6b0ea3fc8a5f34ae62005/attachments/67e6b100e7815e33f824fc3b/download/image.png',
+        name: 'FPS Shooter System',
+        description: 'A basic framework for making an FPS game. Shooting, Aiming, and a Viewmodel.',
+        link: 'https://youtu.be/Tk5eQdZr_zE'
+    },
+    {
         img: 'https://trello.com/1/cards/679b9d947715ef8eb4d2f766/attachments/679b9d9803ac783b465bb187/download/image.png',
         name: "A Jojo's Bizzare Adventure RPG Game.",
         description: 'Has a combat system, dialogue, stands, special abilities, and even timestop which affects projectiles.',
@@ -47,5 +53,5 @@ const projects =
         name: 'JJK Game [OLD]',
         description: 'A Jujutsu Kaisen game that I made a while ago. Features a Main Menu, Combat, Dashes, Abilities, Etc.',
         link: 'https://www.youtube.com/watch?v=_oEINKHji5s',
-    },
+    }
 ];
