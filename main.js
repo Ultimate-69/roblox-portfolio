@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-// Project card hover effect (for projects.js)
+/*// Project card hover effect (for projects.js)
 function setupProjectCards() {
     const cards = document.querySelectorAll('.card');
     
@@ -146,7 +146,7 @@ function setupProjectCards() {
 // Execute card setup for project pages
 if (document.querySelector('.cards')) {
     document.addEventListener('DOMContentLoaded', setupProjectCards);
-}
+}*/
 
 // Additional JavaScript for project and review cards
 document.addEventListener('DOMContentLoaded', function() {
@@ -219,7 +219,7 @@ function setupReviews() {
                 
                 // Clear blur when loaded
                 img.onload = function() {
-                    img.style.transition = 'filter 0.5s ease, opacity 0.5s ease';
+                    //img.style.transition = 'filter 0.5s ease, opacity 0.5s ease';
                     img.style.filter = 'blur(0)';
                     img.style.opacity = '1';
                 };

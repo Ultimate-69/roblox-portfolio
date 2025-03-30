@@ -386,7 +386,7 @@ main {
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
-    border-color: rgba(212, 175, 55, 0.3);
+    border-color: rgba(236, 184, 13, 0.3);
 }
 
 /* Reviews Page */
@@ -560,7 +560,7 @@ main {
 }
 
 /* Interactive Elements */
-.interactive-element {
+/*.interactive-element {
     transition: var(--transition);
     cursor: pointer;
 }
@@ -568,7 +568,7 @@ main {
 .interactive-element:hover {
     transform: scale(1.05);
     color: var(--primary-gold);
-}
+}*/
 
 /* Project Cards Styling */
 .ref {
@@ -594,7 +594,7 @@ main {
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
-    border-color: rgba(212, 175, 55, 0.3);
+    border-color: rgba(255, 196, 0, 0.852);
 }
 
 .project-img {
