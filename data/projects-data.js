@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/67ec85fb7dcfdf58159ec8cb/attachments/67ec8617a807d52378b1e324/download/image.png',
+        name: 'NEW FPS Shooter System',
+        description: 'A much more improved version of the old FPS framework. Weapon sway, sprinting, reloading, etc.',
+        link: 'https://youtu.be/2GH4TjyqamY'
+    },
+    {
         img: 'https://trello.com/1/cards/67e7119b9221e5d8368833a9/attachments/67e711c835c8086a0f1b45fa/download/image.png',
         name: 'Horse Riding System',
         description: 'A basic horse riding system that includes mounting, dismounting, and jumping.',
