@@ -9,4 +9,5 @@ const reviews =
     'https://trello.com/1/cards/677583d40dd90554b531290a/attachments/677583d687bdfb5dc6c828ee/download/image.png',
     'https://trello.com/1/cards/6783ccb868ffd0410faa4c8a/attachments/6783ccbe3443b5c32d3291df/download/image.png',
     'https://trello.com/1/cards/67e80ece9e80511d5bc635f3/attachments/67e80ece9e80511d5bc63642/download/image.png',
+    'https://trello.com/1/cards/67eefef187061aa682e58dfd/attachments/67eefef47af06c207aa1a2ba/download/image.png'
 ]
