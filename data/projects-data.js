@@ -1,6 +1,12 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/67ef014f8037f8ed20a3e2ea/attachments/67ef01538a904c1e6b39480e/download/image.png',
+        name: 'Telekinesis Ability System',
+        description: 'A comission for abilities relating to Telekinesis. Features cooldowns, AOE attacks, etc.',
+        link: 'https://youtu.be/AKztmzuGjro'
+    },
+    {
         img: 'https://trello.com/1/cards/67ec85fb7dcfdf58159ec8cb/attachments/67ec8617a807d52378b1e324/download/image.png',
         name: 'NEW FPS Shooter System',
         description: 'A much more improved version of the old FPS framework. Weapon sway, sprinting, reloading, etc.',
