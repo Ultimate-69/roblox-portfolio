@@ -1,7 +1,7 @@
 const reviewsDiv = document.querySelector('.reviews');
 
 let reviewsHtml = '';
-reviews.forEach((value) => {
+[...reviews].reverse().forEach((value) => {
     reviewsHtml +=
     `
     <a href="${value}" target="_blank">
