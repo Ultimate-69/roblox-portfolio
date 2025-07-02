@@ -71,5 +71,11 @@ const projects =
         name: 'JJK Game [OLD]',
         description: 'A Jujutsu Kaisen game that I made a while ago. Features a Main Menu, Combat, Dashes, Abilities, Etc.',
         link: 'https://www.youtube.com/watch?v=_oEINKHji5s',
+    },
+    {
+        img: 'https://trello.com/1/cards/68655d00648e3d77048adcd3/attachments/68655d0dbd68d879eaf9b3a0/download/image.png',
+        name: 'Anime Turn Based Game',
+        description: 'A fully fledged anime game with data saving, inventories, team battles, and AI (also works with other players)',
+        link: 'https://youtu.be/2MmXonNELf4',
     }
 ];
