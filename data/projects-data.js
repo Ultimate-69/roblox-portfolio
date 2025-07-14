@@ -1,16 +1,16 @@
 const projects = 
 [
     {
-        img: 'https://trello.com/1/cards/68655d00648e3d77048adcd3/attachments/68655d0dbd68d879eaf9b3a0/download/image.png',
-        name: 'Anime Turn Based Game',
-        description: 'A fully fledged anime game with data saving, inventories, team battles, and AI (also works with other players)',
-        link: 'https://youtu.be/2MmXonNELf4',
-    },
-    {
         img: 'https://trello.com/1/cards/68750c44d48c322a15f0431b/attachments/68750c4f1348c8312d4dd703/download/image.png',
         name: 'Doors Room Generation System',
         description: 'A room generation system inspired by doors. Pretty simple, has preset rooms for 1, 25, 50, 75, and 100.',
         link: 'https://youtu.be/rTu-XCxsLGk',
+    },
+    {
+        img: 'https://trello.com/1/cards/68655d00648e3d77048adcd3/attachments/68655d0dbd68d879eaf9b3a0/download/image.png',
+        name: 'Anime Turn Based Game',
+        description: 'A fully fledged anime game with data saving, inventories, team battles, and AI (also works with other players)',
+        link: 'https://youtu.be/2MmXonNELf4',
     },
     {
         img: 'https://trello.com/1/cards/67ef014f8037f8ed20a3e2ea/attachments/67ef01538a904c1e6b39480e/download/image.png',
@@ -20,8 +20,8 @@ const projects =
     },
     {
         img: 'https://trello.com/1/cards/67ec85fb7dcfdf58159ec8cb/attachments/67ec8617a807d52378b1e324/download/image.png',
-        name: 'NEW FPS Shooter System',
-        description: 'A much more improved version of the old FPS framework. Weapon sway, sprinting, reloading, etc.',
+        name: 'FPS Shooter System',
+        description: 'An FPS framework. Weapon sway, sprinting, reloading, etc.',
         link: 'https://youtu.be/2GH4TjyqamY'
     },
     {
@@ -31,14 +31,8 @@ const projects =
         link: 'https://youtu.be/gKGrO_zobT0'
     },
     {
-        img: 'https://trello.com/1/cards/67e6b0ea3fc8a5f34ae62005/attachments/67e6b100e7815e33f824fc3b/download/image.png',
-        name: 'FPS Shooter System',
-        description: 'A basic framework for making an FPS game. Shooting, Aiming, and a Viewmodel.',
-        link: 'https://youtu.be/Tk5eQdZr_zE'
-    },
-    {
         img: 'https://trello.com/1/cards/679b9d947715ef8eb4d2f766/attachments/679b9d9803ac783b465bb187/download/image.png',
-        name: "A Jojo's Bizzare Adventure RPG Game.",
+        name: "Jojo's Bizzare Adventure RPG Game.",
         description: 'Has a combat system, dialogue, stands, special abilities, and even timestop which affects projectiles.',
         link: 'https://www.youtube.com/watch?v=2IEkDEwBEMo'
     },
@@ -61,27 +55,9 @@ const projects =
         link: 'https://youtu.be/t0IugguFsRc',
     },
     {
-        img: 'https://trello.com/1/cards/676c3d925be6fcf7dc99c305/attachments/676c3d947abd9613d80b3bf6/download/image.png',
-        name: 'Crouching System',
-        description: 'A basic crouching system for a comission.',
-        link: 'https://vimeo.com/1042154938',
-    },
-    {
         img: 'https://trello.com/1/cards/66cb0eaa810379b64b11f1c2/attachments/66cb0ee797b5287df5203f40/download/image.png',
-        name: 'Blox Fruits Ability System [OLD-ISH]',
+        name: 'Blox Fruits Systems',
         description: 'A very close copy of how blox fruits works, with working quests, a level up system, a working stat system, and even skills like the fruits. Mobile compatible too.',
         link: 'https://youtu.be/PnJ2Yu1htOA'
-    },
-    {
-        img: 'https://trello.com/1/cards/6629541ef1d2915e6dc4e7eb/attachments/67682e9d8a46e7293a0e284f/download/Screenshot_2024-12-22_171617.png',
-        name: 'Blox Fruits Ability System [OLD]',
-        description: 'I remade the Blox Fruits ability system and even optimized it for mobile but in a JJK setting.',
-        link: 'https://www.youtube.com/watch?v=ogXUUG0PYR4&t=7s',
-    },
-    {
-        img: 'https://trello.com/1/cards/66241072e07dddf2fc62e026/attachments/662410c2cd02e8e633d0e8ed/download/image.png',
-        name: 'JJK Game [OLD]',
-        description: 'A Jujutsu Kaisen game that I made a while ago. Features a Main Menu, Combat, Dashes, Abilities, Etc.',
-        link: 'https://www.youtube.com/watch?v=_oEINKHji5s',
     },
 ];
