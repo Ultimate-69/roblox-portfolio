@@ -1,6 +1,18 @@
 const projects = 
 [
     {
+        img: 'https://trello.com/1/cards/68655d00648e3d77048adcd3/attachments/68655d0dbd68d879eaf9b3a0/download/image.png',
+        name: 'Anime Turn Based Game',
+        description: 'A fully fledged anime game with data saving, inventories, team battles, and AI (also works with other players)',
+        link: 'https://youtu.be/2MmXonNELf4',
+    },
+    {
+        img: 'https://trello.com/1/cards/68750c44d48c322a15f0431b/attachments/68750c4f1348c8312d4dd703/download/image.png',
+        name: 'Doors Room Generation System',
+        description: 'A room generation system inspired by doors. Pretty simple, has preset rooms for 1, 25, 50, 75, and 100.',
+        link: 'https://youtu.be/rTu-XCxsLGk',
+    },
+    {
         img: 'https://trello.com/1/cards/67ef014f8037f8ed20a3e2ea/attachments/67ef01538a904c1e6b39480e/download/image.png',
         name: 'Telekinesis Ability System',
         description: 'A comission for abilities relating to Telekinesis. Features cooldowns, AOE attacks, etc.',
@@ -72,16 +84,4 @@ const projects =
         description: 'A Jujutsu Kaisen game that I made a while ago. Features a Main Menu, Combat, Dashes, Abilities, Etc.',
         link: 'https://www.youtube.com/watch?v=_oEINKHji5s',
     },
-    {
-        img: 'https://trello.com/1/cards/68655d00648e3d77048adcd3/attachments/68655d0dbd68d879eaf9b3a0/download/image.png',
-        name: 'Anime Turn Based Game',
-        description: 'A fully fledged anime game with data saving, inventories, team battles, and AI (also works with other players)',
-        link: 'https://youtu.be/2MmXonNELf4',
-    },
-    {
-        img: 'https://trello.com/1/cards/68750c44d48c322a15f0431b/attachments/68750c4f1348c8312d4dd703/download/image.png',
-        name: 'Doors Room Generation System',
-        description: 'A room generation system inspired by doors. Pretty simple, has preset rooms for 1, 25, 50, 75, and 100.',
-        link: 'https://youtu.be/rTu-XCxsLGk',
-    }
 ];
